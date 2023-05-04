@@ -1,6 +1,0 @@
-decrease gap between home-about and home-welcome -done
-
-increase gap between about and club heriditas - done
-decrease gap between vision and about -done
-decrease footer size and change
-add 3 boxes in vision for multimedia
